@@ -170,13 +170,3 @@ body{
     padding-left: 28px ;
 }
 /*****************Responsive layout****************************/
-@media only screen and (min-width:600px){
-    #meals {
-        width: 80px;
-        margin: auto;
-    }
-    #recipe{
-        width: 80px;
-        margin: auto;
-    }
-}
