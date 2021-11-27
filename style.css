@@ -123,12 +123,11 @@ body{
     padding-top: 50px;
 }
 
-/*****************Recipe page****************************/
-
-.recipe-details {
+/*****************Recipe page****************************
+/*.recipe-details {
     width: 100%;
 }
-
+*/
 .recipe-details h1{
     font-size: 25px;
     text-align: center;
@@ -173,33 +172,33 @@ body{
 
 @media only screen and (min-width:600px){
     #meals {
-        width: 80px;
+        width: 300px;
         margin: auto;
     }
     #recipe{
-        width: 80px;
+        width: 300px;
         margin: auto;
     }
 }
 
 @media only screen and (min-width:1000px){
     #meals {
-        width: 60px;
+        width: 500px;
         margin: auto;
     }
     #recipe{
-        width: 60px;
+        width: 500px;
         margin: auto;
     }
 }
 
 @media only screen and (min-width:1500px){
     #meals {
-        width: 40px;
+        width: 750px;
         margin: auto;
     }
     #recipe{
-        width: 40px;
+        width: 750px;
         margin: auto;
     }
 }
