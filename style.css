@@ -180,34 +180,3 @@ body{
         margin: auto;
     }
 }
-
-@media only screen and (min-width:1000px){
-    #meals {
-        width: 60px;
-        margin: auto;
-    }
-    #recipe{
-        width: 60px;
-        margin: auto;
-    }
-}
-
-@media only screen and (min-width:1500px){
-    #meals {
-        width: 40px;
-        margin: auto;
-    }
-    #recipe{
-        width: 40px;
-        margin: auto;
-    }
-}
-
-@media only screen and (min-width:720px){
-    .body-home{
-        background-image: url(images/background-01-land.png);
-    }
-    .body-meals{
-        background-image: url(images/background-02-land.png);
-    }
-}
